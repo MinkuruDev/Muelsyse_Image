@@ -68,6 +68,7 @@ def place_image_random(path, num_placements):
 image_path = './mumuu.png'  # Replace with your image file path
 # like + share + comment
 # 19h00 16/7: 32 + 12 + 4
-num_placements = 56  # Number of times to place the image
+# 20h00 16/7: 59 + 15 + 4
+num_placements = 86  # Number of times to place the image
 
 place_image_random(image_path, num_placements)
