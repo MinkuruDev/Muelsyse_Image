@@ -71,6 +71,7 @@ image_path = './mumuu.png'  # Replace with your image file path
 # 20h00 16/7: 59 + 15 + 4
 # 21h30 16/7: 65 + 16 + 6
 # 10h00 17/7: 103 + 19 + 6
-num_placements = 140  # Number of times to place the image
+# 17715 17/7: 150 + 21 + 7
+num_placements = 192  # Number of times to place the image
 
 place_image_random(image_path, num_placements)
