@@ -74,9 +74,10 @@ image_path = './mumuu.png'  # Replace with your image file path
 # 17h15 17/7: 150 + 21 + 7
 # 15h45 19/7: 188 + 23 + 7
 # 8h30  23/7: 201 + 25 + 7
-like = 201
-comment = 25
-share = 7
+# 8h30  04/8: 220 + 28 + 8
+like = 220
+comment = 28
+share = 8
 num_placements = like + comment + 3 * share
 print(num_placements)
 
